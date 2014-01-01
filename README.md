@@ -4,6 +4,10 @@
 
 This is the unofficial ASP Surfing addon to watch on-demand heats of the world's best surfers in the world's best waves.
 
+##Status
+
+This software is still under development!
+
 ##Installation
 
 To install this add-on you must download it from [here](http://www.github.com)

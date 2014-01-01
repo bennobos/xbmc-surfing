@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.aspsurfing"
+       name="ASP Surfing"
+       version="1.0.0"
+       provider-name="CodeFish">
+  <requires>
+    <import addon="xbmc.python"                   version="2.1.0"/>
+    <import addon="xbmc.addon"                    version="12.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"     library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Watch heats from the ASP Surfing World Tour events</summary>
+        <description lang="en">Watch heats of the world's best surfers in the world's best waves.</description>
+        <disclaimer lang="en">Unofficial ASP addon. For bugs, requests or general questions visit the forum.</disclaimer>
+        <summary lang="nl">Bekijk heats van de ASP Surfing World Tour evenementen</summary>
+        <description lang="nl">Bekijk heats van 's werelds beste surfers in de beste golven van de wereld</description>
+        <disclaimer lang="nl">Onofficiële ASP addon. Bugs of andere feedback kan geplaatst worden in het forum.</disclaimer>
+    <language>nl</language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website>http://www.codefish.nl</website>
+    <email>info at codefish dot nl</email>
+    <source></source>
+  </extension>
+</addon>
